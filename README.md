@@ -1,4 +1,4 @@
-# flutter_hive_demo
+# Flutter Hive Example
 
 A new Flutter project.
 
